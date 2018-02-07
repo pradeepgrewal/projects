@@ -1,3 +1,2 @@
 Hello Git!
-I am adding more text to this file.
 Testing how GIT works. Yay !
